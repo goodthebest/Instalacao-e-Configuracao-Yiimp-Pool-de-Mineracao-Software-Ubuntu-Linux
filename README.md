@@ -1,128 +1,128 @@
 <a id="readme"></a>
 
-# Crypto Mining Pool Setup Services
-# Mining Pool Software Expert: 
-## We Can Install Crypto Mining Pool for Any Algorithm or Altcoins.
-### This includes famous Bitcoin, Bitcoin Cash, BitcoinII/BC2, Dogecoin, Litecoin, Digibyte, Zcash and any other crypto altcoins of your choice, you just name it and we shall get it done for you.
+# Serviços de Configuração de Pool de Mineração de Criptomoeda
+# Especialista em Software de Pool de Mineração: 
+## Podemos instalar um pool de mineração de criptomoedas para qualquer algoritmo ou altcoin.
+### Isso inclui os famosos Bitcoin, Bitcoin Cash, Dogecoin, Litecoin, Digibyte e quaisquer outros cripto altcoins de sua escolha; basta nomear e nós faremos para você.
 
-Hire a Professional Yiimp Mining Pool Software Expert, Blockchain Developer, and Programmer for Customized Mining Pool Solutions. Free Initial Consultation: Contact Us Today!
+Contrate um especialista profissional em software de pool de mineração Yiimp, desenvolvedor de blockchain e programador para soluções personalizadas de pool de mineração. Consulta inicial gratuita: entre em contato conosco hoje!
 
 
 
 <a id="01-contact-information"></a>
-### 📬 Contact Information
+### 📬 Informações de contato
 
 
-- **Telegram:** [Click Here to Connect on Telegram](https://t.me/goodthebest)
-- **Email:** [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)
+- **Telegram:** [Clique aqui para se conectar no Telegram](https://t.me/goodthebest)
+- **E-mail:** [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)
 - **Discord:** `goodthebest`  
-  *To add on Discord:* Open Discord → Friends → Add Friend → Paste `goodthebest` → Send Request
+  *Para adicionar no Discord:* Abra o Discord → Amigos → Adicionar amigo → Cole \`goodthebest\` → Envie o pedido
 
 
 <a id="toc"></a>
 
 <a id="table-of-contents"></a>
-## 📑 Table of Contents
+## 📑 Índice
 
-- [ 📬 Contact Information](#01-contact-information)
+- [ 📬 Informações de contato](#01-contact-information)
 
-- [Install & Set Up a Crypto Mining Pool on Yiimp Open Source Software for Any Cryptocurrency or Algorithm – Ready in Hours](#1-set-up-a-custom-yiimp-mining-pool-for-any-cryptocurrency-or-algorithm-ready-in-hours)
+- [Instale e configure um pool Yiimp personalizado para qualquer criptomoeda ou algoritmo – Pronto em horas](#1-set-up-a-custom-yiimp-mining-pool-for-any-cryptocurrency-or-algorithm-ready-in-hours)
 
-- [Custom Blockchain Development and Yiimp Mining Pool Coding Services As Freelancers and Independent Contractors](#2-custom-blockchain-development-and-yiimp-mining-pool-coding-services-as-freelancers-and-independent-contractors)
+- [Desenvolvimento personalizado de blockchain e serviços de codificação de pool Yiimp como freelancers e contratantes independentes](#2-custom-blockchain-development-and-yiimp-mining-pool-coding-services-as-freelancers-and-independent-contractors)
 
-- [Advanced Yiimp Features Available:](#21-advanced-features-available)
+- [Recursos avançados Yiimp disponíveis:](#21-advanced-features-available)
 
-- [Professional Yiimp Mining Pool Installation for Altcoins, Algorithms, and Custom Cryptocurrencies](#3-professional-yiimp-mining-pool-installation-for-altcoins-algorithms-and-custom-cryptocurrencies)
-
-
-- [How Our Cyrpto Mining Pool Setup Process Works](#4-how-our-yiimp-mining-pool-setup-process-works)
+- [Instalação profissional de pool Yiimp para altcoins, algoritmos e criptomoedas personalizadas](#3-professional-yiimp-mining-pool-installation-for-altcoins-algorithms-and-custom-cryptocurrencies)
 
 
-- [Supported Algorithms for Yiimp Cryptocurrency Mining Pools](#5-supported-algorithms-for-yiimp-cryptocurrency-mining-pools)
+- [Como funciona nosso processo de configuração de pool Yiimp](#4-how-our-yiimp-mining-pool-setup-process-works)
 
 
-- [Supported Cryptocurrencies for Single or Multi-Algo Yiimp Mining Pools](#6-supported-cryptocurrencies-for-single-or-multi-algo-yiimp-mining-pools)
+- [Algoritmos suportados para pools de mineração de criptomoedas Yiimp](#5-supported-algorithms-for-yiimp-cryptocurrency-mining-pools)
+
+
+- [Criptomoedas suportadas para pools Yiimp de um único algoritmo ou multi-algo](#6-supported-cryptocurrencies-for-single-or-multi-algo-yiimp-mining-pools)
 
 
 ---
 
 
 
-[⬆ Back to Top](#toc)
+[⬆ Voltar ao topo](#toc)
 
 <a id="1-set-up-a-custom-yiimp-mining-pool-for-any-cryptocurrency-or-algorithm-ready-in-hours"></a>
-## 1. Install & Set Up a Custom Yiimp Mining Pool for Any Cryptocurrency or Algorithm – Ready in Hours
-[⬆ Back to Top](#toc)
+## 1. Instale e configure um pool Yiimp personalizado para qualquer criptomoeda ou algoritmo – Pronto em horas
+[⬆ Voltar ao topo](#toc)
 
 
-Whether you're looking to mine a single cryptocurrency solo, create a private pool for friends and family, or launch a public mining pool compatible with NiceHash, cloud mining, or MRR (MiningRigRentals), we offer comprehensive solutions tailored to your needs. Our Yiimp mining pool setup services support multiple coins and algorithms, ensuring seamless blockchain integration and high-performance mining operations.
+Quer você esteja procurando minerar uma única criptomoeda sozinho, criar um pool privado para amigos e família ou lançar um pool de mineração público compatível com NiceHash, mineração em nuvem ou MRR (MiningRigRentals), oferecemos soluções abrangentes sob medida para suas necessidades. Nossos serviços de configuração de pool Yiimp suportam várias moedas e algoritmos, garantindo integração blockchain perfeita e operações de mineração de alto desempenho.
 
 <a id="2-custom-blockchain-development-and-yiimp-mining-pool-coding-services-as-freelancers-and-independent-contractors"></a>
-## 2. Custom Blockchain Development and Yiimp Mining Pool Coding Services As Freelancers and Independent Contractors
-[⬆ Back to Top](#toc)
+## 2. Desenvolvimento personalizado de blockchain e serviços de codificação de pool Yiimp como freelancers e contratantes independentes
+[⬆ Voltar ao topo](#toc)
 
 
-We specialize in customized blockchain projects, including Yiimp mining pool modifications, algorithm integrations, and cryptocurrency forking. Compatible with Linux-based Ubuntu operating systems: 16.04, 18.04, 20.04, 22.04,24.04 and 25.01.
+Somos especializados em projetos de blockchain personalizados, incluindo modificações de pool Yiimp, integrações de algoritmos e bifurcações de criptomoedas. Compatível com sistemas operacionais Ubuntu baseados em Linux: 16.04, 18.04, 20.04, 22.04, 24.04 e 25.01.
 
-Our expert team installs, configures, and launches Yiimp mining pool software to enable mining for multiple crypto tokens and coins. We also handle setups for new coins forked from Bitcoin (SHA-256 PoW), Blackcoin (Scrypt PoS), Litecoin (Scrypt PoW), Dash (X11), and more. We do have a solution for Zcash/zec mining pool using a software other than yiimp.
+Nossa equipe de especialistas instala, configura e lança o software de pool Yiimp para permitir a mineração de vários tokens e moedas de criptografia. Também lidamos com configurações para novas moedas bifurcadas a partir de Bitcoin (SHA-256 PoW), Blackcoin (Scrypt PoS), Litecoin (Scrypt PoW), Dash (X11) e outros.
 
-Blackcoin's fork when mined on yiimp it might reject blocks, we do have a proper solution to this if your Blackcoin's clone is not accepting new blocks.
+O fork do Blackcoin, quando minerado no yiimp, pode rejeitar blocos; temos a solução adequada se o clone do seu Blackcoin não estiver aceitando novos blocos.
 
-For personalized Yiimp multi-coin pool setup, troubleshooting, or quick support, reach out via our contact details.
+Para configuração personalizada de pool Yiimp multi-moeda, solução de problemas ou suporte rápido, entre em contato através de nossos dados de contato.
 
 <a id="21-advanced-features-available"></a>
-### 2.1. Advanced Yiimp Features Like Yiimp ASICBOOST Implementation for SHA256/SHA256D stratum and MWEB (LTC/scrypt) Available:
-[⬆ Back to Top](#toc)
+### 2.1. Recursos avançados Yiimp, como implementação Yiimp ASICBOOST para stratum SHA256/SHA256D e MWEB (LTC/scrypt), disponíveis:
+[⬆ Voltar ao topo](#toc)
 
-- **ASICBoost-Enabled Mining Stratum:** We do have custom Yiimp Asicboost implemented solution for Bitcoin, for other bitcoin family altcoins and SHA256/SHA256D algo coins, supporting most ASICboost machines, cloud mining NiceHash, or MiningRigRentals.
-- **MWEB-Enabled Merged Mining Pools:** For Litecoin, Dogecoin, Bellscoin, and other Scrypt coins, compatible with ASIC hardware, NiceHash, or MRR.
+- **Stratum de mineração com ASICBoost habilitado:** Possuímos uma solução Yiimp Asicboost personalizada para Bitcoin, para outros altcoins da família bitcoin e moedas de algoritmo SHA256/SHA256D, suportando a maioria das máquinas ASICboost, mineração em nuvem NiceHash ou MiningRigRentals.
+- **Pools de mineração combinada com MWEB habilitado:** Para Litecoin, Dogecoin, Bellscoin e outras moedas Scrypt, compatível com hardware ASIC, NiceHash ou MRR.
 
-*Note:* This service is independent and not affiliated with platforms like Upwork, Freelancer.com, LinkedIn, Fiverr, Stack Overflow, Reddit, or similar. Initial consultations and technical discussions for Yiimp projects are free.
+*Nota:* Este serviço é independente e não tem afiliação com plataformas como Upwork, Freelancer.com, LinkedIn, Fiverr, Stack Overflow, Reddit ou similares. As consultas iniciais e discussões técnicas para projetos Yiimp são gratuitas.
 
 <a id="3-professional-yiimp-mining-pool-installation-for-altcoins-algorithms-and-custom-cryptocurrencies"></a>
-## 3. Professional Yiimp Mining Pool Installation for Altcoins, Algorithms, and Custom Cryptocurrencies
-[⬆ Back to Top](#toc)
+## 3. Instalação profissional de pool Yiimp para altcoins, algoritmos e criptomoedas personalizadas
+[⬆ Voltar ao topo](#toc)
 
 
-Launch your own mining pool with our end-to-end Yiimp setup services. Relax while we handle everything from scratch, including:
+Lance seu próprio pool de mineração com nossos serviços de configuração Yiimp de ponta a ponta. Relaxe enquanto cuidamos de tudo desde o início, incluindo:
 
-- Installation of cryptocurrency wallets/daemons for your chosen coins.
-- Server setup, configuration, and administration for Yiimp mining software.
-- Options for solo, private, or public mining pools – ideal for personal use, sharing with friends, or open communities.
-- Customizable pool fees (set to zero or any percentage, adjustable anytime).
-- Compatibility with CPUs, GPUs, ASICs, or external services like NiceHash for rented hashpower.
-- Support for multi-coin and multi-algorithm pools – add more coins/algos as needed (if supported by Yiimp and your server).
-- Ongoing maintenance services available (minimal upkeep required post-setup).
-- Troubleshooting for issues like rejected blocks, payout failures, custom difficulties, vardiff, auto-exchange, daemons, and more.
-- Performance optimization and tweaks for Yiimp and server efficiency.
-- Custom features or modifications at additional cost.
-- Backed by real-world expertise – no reliance on tutorials, online courses, or secondhand knowledge.
+- Instalação de carteiras/daemons de criptomoedas para as moedas escolhidas.
+- Configuração, configuração e administração do servidor para o software de mineração Yiimp.
+- Opções para pools de mineração solo, privados ou públicos – ideal para uso pessoal, compartilhamento com amigos ou comunidades abertas.
+- Taxas de pool personalizáveis (definidas em zero ou qualquer porcentagem, ajustável a qualquer momento).
+- Compatibilidade com CPUs, GPUs, ASICs ou serviços externos como NiceHash para hashpower alugado.
+- Suporte para pools de várias moedas e multi-algoritmo – adicione mais moedas/algoritmos conforme necessário (se suportado pelo Yiimp e pelo seu servidor).
+- Serviços de manutenção contínua disponíveis (mínimo de manutenção necessária após a configuração).
+- Solução de problemas como blocos rejeitados, falhas de pagamento, dificuldades personalizadas, vardiff, troca automática, daemons e muito mais.
+- Otimização de desempenho e ajustes para eficiência do Yiimp e do servidor.
+- Recursos ou modificações personalizados mediante custo adicional.
+- Respaldado por experiência real – sem depender de tutoriais, cursos online ou conhecimento de segunda mão.
 
-**Important:** Yiimp pool software must be installed on an Ubuntu Linux distribution. It is not compatible with Windows, macOS, Android, Raspberry Pi, iOS, or alternative Linux distributions such as CentOS, Fedora, Debian, Arch, or Alpine. However, miners running any of these operating systems can still connect to a Yiimp pool.
+**Importante:** O software de pool Yiimp deve ser instalado em uma distribuição Ubuntu Linux. Não é compatível com Windows, macOS, Android, Raspberry Pi, iOS ou distribuições Linux alternativas como CentOS, Fedora, Debian, Arch ou Alpine. No entanto, mineradores que executam qualquer um desses sistemas operacionais ainda podem se conectar a um pool Yiimp.
 
 <a id="4-how-our-yiimp-mining-pool-setup-process-works"></a>
-## 4. How Our Yiimp Mining Pool Setup Process Works
-[⬆ Back to Top](#toc)
+## 4. Como funciona nosso processo de configuração de pool Yiimp
+[⬆ Voltar ao topo](#toc)
 
 
-No downloads or technical actions needed on your end. Our experts manage the entire process. You'll need a VPS, cloud instance (e.g., AWS), or dedicated server from providers like Digital Ocean, Vultr, Hetzner Cloud, Linode, or your own hardware. Minimum specs and Ubuntu version depend on your mining requirements.
+Nenhum download ou ação técnica é necessária do seu lado. Nossos especialistas gerenciam todo o processo. Você precisará de uma VPS, instância em nuvem (por exemplo, AWS) ou servidor dedicado de provedores como Digital Ocean, Vultr, Hetzner Cloud, Linode ou seu próprio hardware. As especificações mínimas e a versão do Ubuntu dependem dos requisitos de mineração.
 
-📬 **For a quick consultation or custom quote, contact us directly:**  
+📬 **Para uma consulta rápida ou orçamento personalizado, entre em contato diretamente:**  
 - Telegram: [https://t.me/goodthebest](https://t.me/goodthebest)  
-- Email: [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)  
+- E-mail: [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)  
 - Discord: `goodthebest`
 
 
-We work remotely via **TeamViewer** or **AnyDesk** for transparency (no direct server access required). Provide credentials if preferred, and we'll set up the pool – you can change passwords afterward.
+Trabalhamos remotamente via **TeamViewer** ou **AnyDesk** para transparência (nenhum acesso direto ao servidor é necessário). Forneça as credenciais se preferir, e configuraremos o pool – você pode alterar as senhas depois.
 
-For a customized quote on Yiimp mining pool setup, blockchain development, or crypto mining services, contact us today for real-time discussions.
+Para um orçamento personalizado sobre configuração de pool Yiimp, desenvolvimento de blockchain ou serviços de mineração de criptomoedas, entre em contato conosco hoje para discutir em tempo real.
 
 <a id="5-supported-algorithms-for-yiimp-cryptocurrency-mining-pools"></a>
-## 5. Supported Algorithms for Yiimp Cryptocurrency Mining Pools
-[⬆ Back to Top](#toc)
+## 5. Algoritmos suportados para pools de mineração de criptomoedas Yiimp
+[⬆ Voltar ao topo](#toc)
 
 
-Yiimp supports a wide range of algorithms for efficient crypto mining. Here's a comprehensive list:
+O Yiimp suporta uma ampla variedade de algoritmos para mineração de criptomoedas eficiente. Aqui está uma lista abrangente:
 
 | Algos       | Algos       | Algos       | Algos       | Algos       | Algos       |
 |-------------|-------------|-------------|-------------|-------------|-------------|
@@ -154,12 +154,12 @@ Yiimp supports a wide range of algorithms for efficient crypto mining. Here's a 
 
 
 <a id="6-supported-cryptocurrencies-for-single-or-multi-algo-yiimp-mining-pools"></a>
-## 6. Supported Cryptocurrencies for Single or Multi-Algo Yiimp Mining Pools
-[⬆ Back to Top](#toc)
+## 6. Criptomoedas suportadas para pools Yiimp de um único algoritmo ou multi-algo
+[⬆ Voltar ao topo](#toc)
 
 
 <details>
-<summary>Supported Cryptocurrencies for Single or Multi‑Algo Yiimp Mining Pools — We can configure Yiimp pools for most cryptocurrencies (with some exceptions). Here's an extensive list of supported coins for your mining pool setup:</summary>
+<summary>Criptomoedas suportadas para pools Yiimp de um único algoritmo ou multi-algo — Podemos configurar pools Yiimp para a maioria das criptomoedas (com algumas exceções). Aqui está uma extensa lista de moedas suportadas para a configuração do seu pool de mineração:</summary>
 
 | Crypto Mining | Cryptocurrencies | Mining Pools | Altcoin | MiningPool | Alt Currency | Crypto Coins |
 |---------------|------------------|--------------|---------|------------|--------------|--------------|
